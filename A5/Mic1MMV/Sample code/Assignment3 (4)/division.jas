@@ -1,0 +1,111 @@
+//Jeremy Lau 10129094 
+//Van Dyke 10123775	
+
+.constant
+        OBJREF 0x40
+.end-constant
+
+//main will test IDIV with the 2 values
+//simply change values being bipush to test for negative values and other amounts
+.main
+             
+        LDC_W	OBJREF
+
+        BIPUSH          6       //numerator
+        BIPUSH          2       //denominator
+        INVOKEVIRTUAL   IDIV	//call div function
+
+        IRETURN			//end test
+
+.end-main
+
+.method IDIV(x1,x2)
+        .var                       
+                        quotient        
+                        remainder       	
+                        denominator  	
+			d1		//temp used in div calculation loop
+			d2		//temp used in div calculation loop
+			j1		//absolute value of input
+			j2		//absolute value of input
+        .end-var
+
+IDIV:
+	ILOAD		x1		//load input
+	ISTORE		j1		//temp
+	ILOAD		x2		//load input
+	ISTORE		j2		//temp
+
+        ILOAD           j1      	//if temp is negative neg value
+        IFLT            negd1
+check2:        
+	ILOAD           j2      	//if temp is negative neg value
+        IFLT            negd2
+dstart:
+	ILOAD		j1
+	ISTORE		d1		//store absolute value into temp
+	ILOAD		j2
+	ISTORE		d2		//store absolute value into temp
+
+        ILOAD           d1
+        ISTORE          remainder	//this value is the remainder 
+        ILOAD           d2
+        ISTORE          denominator	//this value is to be subtracted from remainder
+        BIPUSH          0x0
+        ISTORE          quotient	//quotient or answer if no remainder (a counter as well)
+dloop:
+        ILOAD           remainder
+        IFLT		dloopend	//if remainder is negative end
+	ILOAD		remainder
+	IFEQ		dloopend	//if remainder is equal to 0 end
+        ILOAD           remainder
+        ILOAD           denominator
+        ISUB				//subtract denominator from remainder
+        ISTORE          remainder
+        ILOAD           quotient	
+        BIPUSH          0x1
+        IADD				//increment quotient
+        ISTORE          quotient
+        
+        GOTO            dloop
+
+dloopend:
+        ILOAD           remainder	
+        BIPUSH          0
+        IF_ICMPEQ       divend		//compare remainder to 0 and if it end
+        ILOAD           remainder	//load remainder neg it since its always a negative number
+	NEG
+        IRETURN				//end method while returning remainder
+divend:
+	ILOAD		x1		//load initial input and see if negative
+	IFLT		quocheck
+	ILOAD		x2		//load initial input and see if negative
+	IFLT		negquotient
+	GOTO		divreturn	//go to end 
+divreturn:
+        ILOAD           quotient        //end method while returning quotient
+        IRETURN
+
+negd1:
+	ILOAD		j1		//load j1 and neg it to make sure its absolute
+	NEG
+	ISTORE		j1
+	GOTO		check2		//go and check j2
+negd2:
+	ILOAD 		j2		//load j2 and neg it to give absolute 
+	NEG
+	ISTORE		j2
+	GOTO 		dstart		//go to calculation loop start
+
+//load inital input and if it is negative both are negative so just go to end
+quocheck:				
+	ILOAD		x2			IFLT		divreturn	
+	GOTO		negquotient
+//load quotient and negate it to give properly signed answer to return
+negquotient:
+	ILOAD		quotient
+	NEG
+	ISTORE		quotient
+	GOTO		divreturn
+
+.end-method

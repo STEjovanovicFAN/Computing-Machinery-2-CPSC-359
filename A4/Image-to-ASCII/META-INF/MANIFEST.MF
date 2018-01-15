@@ -1,0 +1,311 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: ImagetoASCII
+
+Name: com/bric/swing/ColorPickerDemo.class
+SHA-256-Digest: htnoyLDLeNoT1C2hto5UEVACrbx/MPGyrYayaJeC75c=
+
+Name: com/bric/swing/BlockingPane$1.class
+SHA-256-Digest: csj470JB6Kzw+TDX5st4LWdUQ5KuEjTGKjkvlKIKnOg=
+
+Name: com/bric/swing/ImageTransferable.java
+SHA-256-Digest: 6GTlQjfx78/n5ugDOj+dT/AR1G3S/50mPYqyNIx6tLc=
+
+Name: com/bric/swing/ColorSwatch$1.class
+SHA-256-Digest: hT0YuwMJ7cXRECVagcGbL7vyriD6iM21ieOAz1mAid8=
+
+Name: com/bric/swing/resources/DialogFooter.properties
+SHA-256-Digest: /CqA8/YGFkbBvUXx6WpAE9xXgvTITS7fL2yGYsk1xzg=
+
+Name: com/bric/swing/ColorPickerPanel.java
+SHA-256-Digest: ZxjldmFOQMcjhg0GW4i0PWmO15NBEvn/DNh9YBBMF9Q=
+
+Name: com/bric/swing/ContextualMenuHelper$6.class
+SHA-256-Digest: oMBI3S3hwnmdu6CID1bonoJ2Py9IKmTnGwivZqmHJTw=
+
+Name: com/bric/swing/resources/DialogFooter_nl.properties
+SHA-256-Digest: g2HFm2cP5UvgPcclaOhyHlzMHJUMWKOpkD3X1Ylva+I=
+
+Name: com/bric/swing/resources/DialogFooter_ru.properties
+SHA-256-Digest: lcW5ba2/MribKRSJvlT5IZiT6LVaKMyJvPbTRpOf6pE=
+
+Name: com/bric/swing/BlockingPane.java
+SHA-256-Digest: 3LL0AwBRwrqp/8OJY8V8uNwMZXnUqbjjzO5tsuS04zk=
+
+Name: com/bric/plaf/ColorPickerSliderUI.class
+SHA-256-Digest: pybqWqBpfs5+epaf6nVghhbpegrX6yys/Z+Ld3kjowE=
+
+Name: com/bric/util/Property.java
+SHA-256-Digest: 9zHGV0QZjEgOnm3E+5owq0J8ue5RxugZ7iLg9fzhn0I=
+
+Name: com/bric/util/JVM.java
+SHA-256-Digest: RuiPij0HNgHoDng9jfAsuAy2bom9PHlJEZksfxB3Iuw=
+
+Name: com/bric/swing/AppletPopupFactory$AppletPopup$1.class
+SHA-256-Digest: NidVg/x5lzs0vjbrrnqdHQDkP3+UpfX35kwTUYJ+xJQ=
+
+Name: com/bric/swing/AppletPopupFactory.class
+SHA-256-Digest: RjJ9w7V8nX5hCPoyEGllgspIdLW0H1mjwTyDNxo5tL4=
+
+Name: com/bric/swing/ContextualMenuHelper$1.class
+SHA-256-Digest: Rx4vijnbypjAYkNSyc0RdLyFrxXdOx3RsHxzf8sYvak=
+
+Name: com/bric/swing/BlockingPane.class
+SHA-256-Digest: S3xVcSSb4Vca9umaIVuO7aHOafyupRmRHtWcWTNS6p8=
+
+Name: com/bric/swing/DelegateFocusTraversalPolicy.class
+SHA-256-Digest: pQKirN59Xe4Dgw1oxls07FrFAHHmLf44/8TRllLG0gI=
+
+Name: com/bric/blog/Blurb.class
+SHA-256-Digest: e9Gntv+cylYVUfqF1k7IogXC+vIQp4D8e2U2NBOEoJY=
+
+Name: com/bric/plaf/PlafPaintUtils.class
+SHA-256-Digest: OmQgVdue0uPrAkb+GbUHOK8pqLUAUZ/QSn3NhTMDLfA=
+
+Name: com/bric/swing/ContextualMenuHelper$6$1.class
+SHA-256-Digest: WfsO9GrQnz2lPgHgDnTLrg1/M05KuPti6x4r6VvkPcg=
+
+Name: com/bric/util/BooleanProperty.java
+SHA-256-Digest: kIpu4OGa2N/Nvlql7vzNC6TCsLIZZNQIdiXV07JQy0A=
+
+Name: com/bric/util/JVM.class
+SHA-256-Digest: +6ezsYe0ywO6FBNN3weqFXHHMnb+P1P+am4on41NJ3I=
+
+Name: com/bric/swing/resources/ColorPicker_es.properties
+SHA-256-Digest: WH5+8Ye5P2KGtf86LEFvivaC8goGa3kXO6RbwthPmNo=
+
+Name: com/bric/swing/ColorPickerDemo$5.class
+SHA-256-Digest: KNE/9firCjAkHyugqjF/rL1V2tkit3Il4u5/ukT+Ync=
+
+Name: com/bric/swing/ColorPicker$SetRGBRunnable.class
+SHA-256-Digest: SG2synNpUeKRIQcsHTEF7oNu8X742sAck0mX6yG9drE=
+
+Name: com/bric/swing/ColorPickerDialog.java
+SHA-256-Digest: sUEk6AKaXY4AdPnaZUuZe6ZSQ01o+JO/miLw+lUcoho=
+
+Name: com/bric/swing/DialogFooter.java
+SHA-256-Digest: ZCMCggc7GJs9TJhnMl0t4ejo/fltA8lSsJV/2JY8hDo=
+
+Name: com/bric/swing/AppletPopupFactory$AppletPopup.class
+SHA-256-Digest: 0mnBWtom2ueFjP9DlAST8aa8Rz6kK3Kq84iaEQjrSx4=
+
+Name: com/bric/plaf/FocusArrowListener.java
+SHA-256-Digest: PK7nQ2RHuURM8p7Qk3YexIpU8OSkCtYWB9hFxGHeQck=
+
+Name: com/bric/swing/DialogFooter$4.class
+SHA-256-Digest: xTlr1sKORgbNTdtNJY3socVsowQI00MFQRtnWsZ083s=
+
+Name: com/bric/swing/resources/ColorPicker_pt.properties
+SHA-256-Digest: +UBziFNk7Ye6r4vqpX2nGF3B34H39lbzQSiqw5d8oCc=
+
+Name: com/bric/swing/ColorPickerPanel$2.class
+SHA-256-Digest: xn5ZZx8cYZh63zGoOHcY1U1TP4ZwApzCiBwSI+EJyEY=
+
+Name: com/bric/plaf/FocusArrowListener.class
+SHA-256-Digest: 3X5TnKYd4u4CS3cNYYxvJSL3/iahTgp/sL48/QvhiuM=
+
+Name: com/bric/blog/Blurb.java
+SHA-256-Digest: v/cjq3ROUEEFN5uLmMEDvpy8HjE2uwLOO8A/8Ovp+V4=
+
+Name: com/bric/swing/ColorPicker$Option.class
+SHA-256-Digest: daifEU4pU+Xtwwu5UaPwRo/9xHR1nV+Qgy8EXOp54cc=
+
+Name: com/bric/swing/ColorPickerDemo$4.class
+SHA-256-Digest: mrCCgKhX5CUlJsezmnvlbJVhnq1FlZKRJTmFATnGtSQ=
+
+Name: com/bric/swing/ColorPickerPanel.class
+SHA-256-Digest: VCMvc5x7CehcjczkidCjtvr4rwckuafWPEmsWjeo1/A=
+
+Name: com/bric/swing/DialogFooter.class
+SHA-256-Digest: StzwkS90fAw1fdOuQxb5czRHErUk4J7VX1hf29W8vWU=
+
+Name: com/bric/swing/ContextualMenuHelper$3.class
+SHA-256-Digest: LcKQF5TMb3FBYa9oTI6v5ROmF4hxipB0AJaQC5JeXmk=
+
+Name: com/bric/swing/resources/DialogFooter_fr.properties
+SHA-256-Digest: pU2D/zdhQbrO74LY7k3VhBoGwTtNIbUynAlVGLEeJvw=
+
+Name: com/bric/swing/AppletPopupFactory.java
+SHA-256-Digest: TDZqujP/r4E4m9NWOTUPsVKBwq4bZwUYQ1yDxMQFOuc=
+
+Name: com/bric/swing/ColorPicker$2.class
+SHA-256-Digest: YPWbmFCqH1vyR80vJKwifLTYRwyYSPEUep7U59u6I78=
+
+Name: com/bric/swing/resources/ColorPicker_en_GB.properties
+SHA-256-Digest: Kav9OiXE+Lr4zHKtKDdQnm8k5n8AnUJ6Tz7AiD442kc=
+
+Name: License.html
+SHA-256-Digest: 6GNiiAsGRBnPoVudrEALX65auwTntOJShgGj+nq+N2U=
+
+Name: com/bric/swing/resources/DialogFooter_de.properties
+SHA-256-Digest: u28kYaM4FmzxhBOw2pq45y/QuPoDqg6WC62FQE3h4mc=
+
+Name: com/bric/blog/ResourceSample.class
+SHA-256-Digest: g678lP9806gp28hkcbddAii6QFrt51orB/HlqMM4tTo=
+
+Name: com/bric/swing/DialogFooter$3.class
+SHA-256-Digest: Ghb+haDcZ1JvlIyDWuGFhvirZQtMFwWa5RmH9KgwO2o=
+
+Name: com/bric/swing/resources/ColorPicker_sp.properties
+SHA-256-Digest: ILiVhN+7uK39fJuC8clPI8eXbNxb5xij7lqKmavXcqE=
+
+Name: com/bric/swing/ColorSwatch.java
+SHA-256-Digest: Nwlm+e7IfxWhUCjPC+rkp0xfEb6JuSjnmxzRd61W9Hs=
+
+Name: com/bric/swing/DialogFooter$3$1.class
+SHA-256-Digest: IyxAK/dgu0qTd4IBdj7cTfVLcTdnXI/xn0rMET/g184=
+
+Name: com/bric/swing/resources/DialogFooter_sp.properties
+SHA-256-Digest: rYL8Tv3dCdLb5ZrSC4anjh7SgwMNZnNsYI3kpZevyc8=
+
+Name: com/bric/swing/ColorPickerPanel$3.class
+SHA-256-Digest: HPL3/H28mfTtxCFuak+e/FjWqHxfVYEdJMJKDZ851Y0=
+
+Name: com/bric/plaf/ColorPickerSliderUI$2.class
+SHA-256-Digest: r7Hoed5IE//NwYzkNBpgSBTtxd/TkZ5CTst/7FtYkE0=
+
+Name: com/bric/swing/resources/ColorPicker_de.properties
+SHA-256-Digest: B3dO02UiEY58JZ80rB4JUwCrFIn8L/ApBtkoE6bSSN8=
+
+Name: com/bric/swing/resources/DialogFooter_es.properties
+SHA-256-Digest: n6FzZMZs+SWAoIljT7HwGP8MfkAJs/fGZhn9/JskOZI=
+
+Name: com/bric/swing/ColorPicker$1.class
+SHA-256-Digest: 16Yhj6kDh1Szvquv2lCETnBDBLDpiy3UARXQRpycYBE=
+
+Name: com/bric/swing/DialogFooter$2.class
+SHA-256-Digest: LeKT56b8IGVBi+p3Z8fUO5dfdb4seW2zW5m5L/JyBPc=
+
+Name: com/bric/util/EnumProperty.java
+SHA-256-Digest: slq8rD2/bNEUIAxg3nrPM/Ng9RrlcpZGt11Fd9CyaS4=
+
+Name: com/bric/swing/ColorPickerDemo$3.class
+SHA-256-Digest: dsgvnJ0tE5Sr90u6g579OTHYfaMvTqET+E4tOtAQIaI=
+
+Name: com/bric/swing/DialogFooter$EscapeKeyBehavior.class
+SHA-256-Digest: Rg7CO6SGQf3FgbQp7bmAnYn8CeCFYyWmTaxh9QtQtLw=
+
+Name: com/bric/swing/ColorPickerPanel$4.class
+SHA-256-Digest: hqiyiG3M2KJebqy0k3lIR+Q5LQ5CCcvmpm56oQJnSoA=
+
+Name: com/bric/swing/ContextualMenuHelper$2.class
+SHA-256-Digest: VfdMMHDu4gp3OO+CJU4vLXo+Yc0BAPeiWhNLLghOz4I=
+
+Name: com/bric/swing/AppletPopupFactory$AppletPopup$MyBlockingPane.cla
+ ss
+SHA-256-Digest: x0nUERECUKazi0NV687IsRA5l9oARAYj2l45he/Nltc=
+
+Name: com/bric/swing/ColorPickerDialog.class
+SHA-256-Digest: D/141eL7B3G1KXOyk47lxr75mshPCcNubbK3ZQatKkU=
+
+Name: com/bric/swing/ColorPickerPanel$1.class
+SHA-256-Digest: +teXg46HA4ai5gCHATeY9KGbExRq6PLe7iP05Kny+lo=
+
+Name: com/bric/swing/DelegateFocusTraversalPolicy.java
+SHA-256-Digest: bIWvXoYLT+tXDwpsPK1j2cIG9OCoT4vK92Y923XeLdg=
+
+Name: com/bric/plaf/ColorPickerSliderUI$1.class
+SHA-256-Digest: 2Ckj0TPucbdxrVq0ffu1RnMBGEc9Kf6gDRYgNJn1tAg=
+
+Name: com/bric/plaf/ColorPickerSliderUI.java
+SHA-256-Digest: 93D4kl+m2ZP4WCR3eNdHDc9mzGrHE/4KH4tM5h8Z4ww=
+
+Name: com/bric/swing/DialogFooter$ClickAction.class
+SHA-256-Digest: xp/FPByDp+Ao0yXydVy1B8hzzV+NKnAGroIflP/MFdE=
+
+Name: com/bric/swing/resources/ColorPicker_fr.properties
+SHA-256-Digest: YRUIZjVKW3PjOf7AAAZWBgX7DQSrLHg3RtEKZyvBeaM=
+
+Name: com/bric/swing/resources/ColorPicker_nl.properties
+SHA-256-Digest: Myy9Pi1R33kiVmdrliMhthh7t1Jn8UGetr/EYN7Pp9c=
+
+Name: com/bric/swing/BricApplet.class
+SHA-256-Digest: E23FCf25yEyHvN6NiG9YwgvLR3KHwrPCsLlEzOU7O08=
+
+Name: com/bric/plaf/PlafPaintUtils.java
+SHA-256-Digest: LhJvboy+u3tyJgmwVXp2RSwaaffk8QO72U5fzu1IRnc=
+
+Name: com/bric/swing/ColorPickerDialog$1.class
+SHA-256-Digest: G5bhth5Zt+Pl7HydCyjFZs+ME5APsZIkncrIb8YAsec=
+
+Name: com/bric/swing/ColorPicker.java
+SHA-256-Digest: zgeGLpWZJwyVxPXR1s+PiwTGvCValXw5ZLk6jogFTTE=
+
+Name: com/bric/swing/ColorPicker$HexDocumentListener.class
+SHA-256-Digest: LmsSHuDsy1jQN5X2m0YqqdRS4ggPSuXL0tf90gtv4hQ=
+
+Name: com/bric/swing/ColorPicker$HexDocumentListener$1.class
+SHA-256-Digest: Dx+Ey4O+60Ay12Q0QuNQ+OcMIXcn6W+ruyE4DgfitD4=
+
+Name: com/bric/swing/resources/DialogFooter_pt.properties
+SHA-256-Digest: zMgatR8Mbol/lT9M5KyudDY2NrXW4Uz8aJMxMHPbf9A=
+
+Name: com/bric/swing/ColorSwatch$2.class
+SHA-256-Digest: QIgheiBtu8TuzraHwFsqd+c9SDeLocQN+mu/iB9xDPY=
+
+Name: com/bric/swing/resources/ColorPicker_ru.properties
+SHA-256-Digest: fKH5NLSXkpMC4Bu2+yrwHmwqRhFb7MHphjj6ySChhFU=
+
+Name: com/bric/swing/ContextualMenuHelper$4.class
+SHA-256-Digest: t/T5y455Zy1X8fL5jgMGdlsdWY24gpfgGaEnPeqBHhg=
+
+Name: com/bric/swing/ContextualMenuHelper.java
+SHA-256-Digest: alSJI/2yfct+3Hvl+dwGixNgsORVzjHNlXV4BxoyfVM=
+
+Name: com/bric/swing/ImageTransferable.class
+SHA-256-Digest: h3VwYMgPIP+M1rf2i22OhwYhr95LOSaxIh7V5hy6jzg=
+
+Name: com/bric/swing/ContextualMenuHelper$4$1.class
+SHA-256-Digest: YJuLid9u/C8C3tDUHOFwYvsQ7P4/IUSAYo7RWu807HU=
+
+Name: com/bric/swing/BricApplet.java
+SHA-256-Digest: wu1dSu5isv/U++oe0oXG7Ua+WTIC2rbUf4XXu7+tWSE=
+
+Name: com/bric/swing/ColorSwatch.class
+SHA-256-Digest: 1XieSirfRpZVnqnmucs8+sTkoRkRgh1ffgxrWmisvaM=
+
+Name: com/bric/util/EnumProperty.class
+SHA-256-Digest: BlLHo05l6opk+Q3gq286uNkzGB1owhLRtWFC7mGyHo8=
+
+Name: com/bric/util/BooleanProperty.class
+SHA-256-Digest: rGptzXsLVuHY3/xyB2Xzr4rmKvLE1yn/bHhNPdIx1y4=
+
+Name: com/bric/swing/resources/DialogFooter_pt_BR.properties
+SHA-256-Digest: zMgatR8Mbol/lT9M5KyudDY2NrXW4Uz8aJMxMHPbf9A=
+
+Name: com/bric/swing/ColorPickerDemo$2.class
+SHA-256-Digest: aZTQla2NbifKGJgbdlMXX9whEUcI5C00zOuSe5iDZfU=
+
+Name: com/bric/swing/DialogFooter$1.class
+SHA-256-Digest: 8HU5NYzi2uDI3q6qQevuBeHd7Tsg171HMfJUIqANevg=
+
+Name: com/bric/swing/resources/ColorPicker.properties
+SHA-256-Digest: URASt81khhWyy9wCDh2QZaAAED4UwkToNI/uJ06nduE=
+
+Name: com/bric/swing/ContextualMenuHelper$5.class
+SHA-256-Digest: oBYtd+IGbgVcIga3KJgIDlr2WePltuE9v7cwV8FkjpU=
+
+Name: com/bric/swing/ColorPickerDemo.java
+SHA-256-Digest: 8Rj47haSRYmBxLLOlyHTR05YJWVbOhPzws6LBrpQU4A=
+
+Name: com/bric/blog/ResourceSample.java
+SHA-256-Digest: lhTUB62wi0uHlpPCZVdNH6wywkENmyKPgKZSEi17fX8=
+
+Name: com/bric/swing/ColorPickerDemo$1.class
+SHA-256-Digest: 5nyqFbN2vBCXXoXsRrWys0lsQEA8kEBXj6YJzQTzRbc=
+
+Name: com/bric/swing/ContextualMenuHelper$1$1.class
+SHA-256-Digest: j4gqAoP6qPBHndv8jswdtD2ekbkXe7dsWau9zwpfCTc=
+
+Name: com/bric/swing/ContextualMenuHelper.class
+SHA-256-Digest: uo6wpxqFiDhqLeYaRcCO090zXvvrXY9AFA9pqMagVbg=
+
+Name: com/bric/swing/ColorPicker.class
+SHA-256-Digest: 8HzRIctoTQS3nkZhqjpMQckXre5f4KymC0/VOY35Mm8=
+
+Name: com/bric/util/Property.class
+SHA-256-Digest: iEvOmAsYHYbl480j4/DkwjaN1qT6TjVImncZFABJMqM=
+
+Name: com/bric/swing/resources/ColorPicker_pt_BR.properties
+SHA-256-Digest: +UBziFNk7Ye6r4vqpX2nGF3B34H39lbzQSiqw5d8oCc=
+

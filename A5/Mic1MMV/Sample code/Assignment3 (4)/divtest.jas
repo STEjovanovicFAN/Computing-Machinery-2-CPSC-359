@@ -1,0 +1,19 @@
+//Jeremy Lau 10129094 
+//Van Dyke 10123775	
+
+.constant
+        OBJREF 0x40
+.end-constant
+
+//main will test IMUL with 2 values
+
+.main
+             
+        LDC_W	OBJREF
+        BIPUSH          10	//numerator
+        BIPUSH          5	//denominator
+        IDIV			//call div function
+
+        IRETURN			//end test
+
+.end-main
